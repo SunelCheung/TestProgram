@@ -15,9 +15,15 @@ var writeName="";
 var showName="";
 var teacherString=[];
 var majorString=[];
+
+//wjx  sinsinsin
+var wjx='sin';
+
 $(document)
 		.ready(
 				function() {
+					
+					
 					
 					$('[data-toggle="tooltip"]').tooltip();
 					
